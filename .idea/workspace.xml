@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cb80f3-8ea1-42c1-a6c0-23e0363edde2" name="Changes" comment="100 days challenge &#10;Day 1 (19/06/24)&#10;Java&#10;&gt; Strings&#10;&gt; 2D Arrays&#10;&gt; Loops&#10;&gt; Revision" />
+    <list default="true" id="99cb80f3-8ea1-42c1-a6c0-23e0363edde2" name="Changes" comment="100 days challenge &#10;commit">
+      <change afterPath="$PROJECT_DIR$/core/sendMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/LeetCode/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/LeetCode/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DAYS" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/100DAYS" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,44 +34,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Addition2ElementWithFun.executor": "Run",
-    "Application.Addition2Elements.executor": "Run",
-    "Application.FirstStrings.executor": "Run",
-    "Application.InsertInBetween.executor": "Run",
-    "Application.Problem1.executor": "Run",
-    "Application.Problem26.executor": "Run",
-    "Application.Problem27.executor": "Run",
-    "Application.StudentPerformanceTracker.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.TwoDArray.executor": "Run",
-    "Application.Vehicle$vehicleDemo.executor": "Run",
-    "Application.arrays.executor": "Run",
-    "Application.averageAge.executor": "Run",
-    "Application.deleteArray.executor": "Run",
-    "Application.insertArray.executor": "Run",
-    "Application.noRepetition.executor": "Run",
-    "Application.pyramidPattern.executor": "Run",
-    "Application.reverseArray.executor": "Run",
-    "Application.sort1.executor": "Run",
-    "Application.sortStack.executor": "Run",
-    "Application.two_dimensional1.executor": "Run",
-    "Application.whileLoop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sahil/OneDrive/Desktop/100DAYS/JAVA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Addition2ElementWithFun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Addition2Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertInBetween.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentPerformanceTracker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vehicle$vehicleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.averageAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deleteArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.noRepetition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pyramidPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sendMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sort1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.two_dimensional1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.whileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sahil/OneDrive/Desktop/100DAYS/JAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Vehicle$vehicleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="core.ClassObjectMethods.Vehicle$vehicleDemo" />
@@ -126,7 +133,8 @@
       <workItem from="1718881950289" duration="3677000" />
       <workItem from="1718953108111" duration="111000" />
       <workItem from="1719650036748" duration="19000" />
-      <workItem from="1719651478690" duration="326000" />
+      <workItem from="1719651478690" duration="7149000" />
+      <workItem from="1719742627782" duration="2044000" />
     </task>
     <task id="LOCAL-00001" summary="100 days">
       <option name="closed" value="true" />
@@ -144,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718822119733</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="100 days challenge &#10;commit">
+      <option name="closed" value="true" />
+      <created>1719651842743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719651842743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +172,8 @@
     </ignored-roots>
     <MESSAGE value="100 days" />
     <MESSAGE value="100 days challenge &#10;Day 1 (19/06/24)&#10;Java&#10;&gt; Strings&#10;&gt; 2D Arrays&#10;&gt; Loops&#10;&gt; Revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="100 days challenge &#10;Day 1 (19/06/24)&#10;Java&#10;&gt; Strings&#10;&gt; 2D Arrays&#10;&gt; Loops&#10;&gt; Revision" />
+    <MESSAGE value="100 days challenge &#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="100 days challenge &#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
